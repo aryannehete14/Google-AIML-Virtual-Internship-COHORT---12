@@ -57,3 +57,52 @@ This project is a custom image classifier that detects whether an item belongs t
 > ✅ *Status: Completed*
 
 ---
+
+### 🧠 3. Smart Desk Final Project (Python)
+
+**🔗 Based on:** Entire Virtual Internship
+
+This all-in-one **Smart Desk Classifier** project was developed during the **Google AI/ML Virtual Internship – Cohort 12**, organized by **AICTE** and **Google Developers**. It combines:
+
+- **🔍 Object Detection**: Identifying desk items in real time  
+- **♻ Image Classification**: Determining recyclability of uploaded images  
+
+Both modules are powered by **Python** and built upon Google’s pathway units for Object Detection (Unit 2) and Image Classification (Unit 6).
+
+**Features:**
+- Binary classification using a trained image model
+- Clean UI for testing with user-uploaded images
+- Accurate and fast predictions on custom dataset
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **TensorFlow** (v2+)
+- **OpenCV**, **NumPy**
+- **Streamlit** (web UI)
+- **Pre-trained COCO-SSD model**
+- **Custom CNN model** (`recycle_classifier.h5`)
+- 
+
+## 🎯 Key Features :
+
+### 🔍 Object Detection
+- Real-time detection of common desk items: laptop, pen, bottle, etc.
+- Utilizes a pre-trained COCO-SSD model for bounding box visualization.
+- Runs on webcam input or static images.
+
+### ♻ Image Classification
+- Accepts user-uploaded waste images via browser UI.
+- Classifies into 7 categories, then maps to _Recyclable_ or _Non‑Recyclable_.
+- Provides quick and accurate classification results.
+
+
+## 🧑‍💻 Setup & Usage
+
+1. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+> ✅ *Status: Completed*
+
+---
