@@ -1,0 +1,13 @@
+Building an Object Detection App with TensorFlow.js and React.js using COCO-SSD
+
+🔗 Based on: Unit 2 – Get Started with Object Detection
+
+A real-time web application that uses TensorFlow.js and React.js to detect multiple objects in webcam feed or static images using the COCO-SSD pre-trained model. Fully runs in the browser with no backend.
+
+Features:
+
+Real-time object detection via webcam
+Browser-based TensorFlow.js model execution
+Clean React.js UI with bounding box overlays
+Uses the COCO-SSD model (80 common object classes)
+✅ Status: Completed
