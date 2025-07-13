@@ -31,6 +31,8 @@ This internship followed six structured learning units hosted on [Google Develop
 
 ### 📦 1. Building an Object Detection App with TensorFlow.js and React.js using COCO-SSD
 
+<img width="959" height="529" alt="image" src="https://github.com/user-attachments/assets/8ec8f32f-5c4c-4e65-98df-97ed53296d6f" />
+
 **🔗 Based on:** [Unit 2 – Get Started with Object Detection](https://developers.google.com/learn/pathways/get-started-object-detection?hl=en)
 
 A real-time web application that uses **TensorFlow.js** and **React.js** to detect multiple objects in webcam feed or static images using the **COCO-SSD** pre-trained model. Fully runs in the browser with no backend.
@@ -44,6 +46,8 @@ A real-time web application that uses **TensorFlow.js** and **React.js** to dete
 > ✅ *Status: Completed*
 
 ### 🧠 2. Recyclable vs Non-Recyclable Classifier (Python)
+
+<img width="959" height="534" alt="image" src="https://github.com/user-attachments/assets/97449473-142b-4ec9-9d4b-6fcb7b220f85" />
 
 **🔗 Based on:** [Unit 6 – Going Further with Image Classification](https://developers.google.com/learn/pathways/going-further-image-classification?hl=en)
 
@@ -59,6 +63,8 @@ This project is a custom image classifier that detects whether an item belongs t
 ---
 
 ### 🧠 3. Smart Desk Final Project (Python)
+
+<img width="959" height="531" alt="image" src="https://github.com/user-attachments/assets/a8f6eb18-d1fe-4f95-aff7-9b798f7556fd" />
 
 **🔗 Based on:** Entire Virtual Internship
 
