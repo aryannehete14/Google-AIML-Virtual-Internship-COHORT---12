@@ -1,0 +1,13 @@
+🧠 2. Recyclable vs Non-Recyclable Classifier (Python)
+
+🔗 Based on: Unit 6 – Going Further with Image Classification
+
+This project is a custom image classifier that detects whether an item belongs to the recyclable or non-recyclable category. Built using Python and TensorFlow, it promotes eco-friendly practices by assisting in waste categorization.
+
+Features:
+
+Binary classification using a trained image model
+Clean UI for testing with user-uploaded images
+Accurate and fast predictions on custom dataset
+
+✅ Status: Completed
