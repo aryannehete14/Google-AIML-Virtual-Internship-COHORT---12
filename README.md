@@ -45,6 +45,9 @@ A real-time web application that uses **TensorFlow.js** and **React.js** to dete
 
 > ✅ *Status: Completed*
 
+
+
+
 ### 🧠 2. Recyclable vs Non-Recyclable Classifier (Python)
 
 <img width="959" height="534" alt="image" src="https://github.com/user-attachments/assets/97449473-142b-4ec9-9d4b-6fcb7b220f85" />
@@ -61,6 +64,8 @@ This project is a custom image classifier that detects whether an item belongs t
 > ✅ *Status: Completed*
 
 ---
+
+
 
 ### 🧠 3. Smart Desk Final Project (Python)
 
