@@ -72,7 +72,7 @@ This project is a custom image classifier that detects whether an item belongs t
 
 **🔗 Based on:** Entire Virtual Internship
 
-This all-in-one **Smart Desk Classifier** project was developed during the **Google AI/ML Virtual Internship – Cohort 12**, organized by **AICTE** and **Google Developers**. It combines:
+This all-in-one **Smart Desk Classifier** project was developed during the **Deloitte Technology Job Simulation**, organized by **Deloitte** and **Forage**. It combines:
 
 - **🔍 Object Detection**: Identifying desk items in real time  
 - **♻ Image Classification**: Determining recyclability of uploaded images  
