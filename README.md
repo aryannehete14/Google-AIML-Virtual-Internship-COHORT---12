@@ -77,7 +77,7 @@ This all-in-one **Smart Desk Classifier** project was developed during the **Del
 - **🔍 Object Detection**: Identifying desk items in real time  
 - **♻ Image Classification**: Determining recyclability of uploaded images  
 
-Both modules are powered by **Python** and built upon Google’s pathway units for Object Detection (Unit 2) and Image Classification (Unit 6).
+Both modules are powered by **Python** and built upon Deloitte's pathway units for Object Detection (Unit 2) and Image Classification (Unit 6).
 
 **Features:**
 - Binary classification using a trained image model
