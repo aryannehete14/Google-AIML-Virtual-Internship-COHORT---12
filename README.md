@@ -1,21 +1,20 @@
-# 🤖 Google AI/ML Virtual Internship – Cohort 12 (AICTE × Google Developers)
+# 🤖 Deloitte Technology Job Simulation (Forage × Deloitte)
 
-Welcome to my project repository for the **Google AI/ML Virtual Internship – Cohort 12**, conducted by **AICTE** in collaboration with **Google Developers**. This program offered a hands-on journey through Google's curated AI/ML learning pathways, focusing on real-world applications using TensorFlow and modern deployment tools.
+Welcome to my project repository for the **Deloitte Technology Job Simulation**, conducted by **Deloitte** in collaboration with **Forage**. This program offered a hands-on journey through Deloitte's curated AI/ML learning pathways, focusing on real-world applications using TensorFlow and modern deployment tools.
 
 ---
 
 ## 📚 Official Learning Pathway Units
 
-This internship followed six structured learning units hosted on [Google Developers Pathways](https://developers.google.com/learn/pathways):
-
-|  Unit  |             Title                       |                                           Link                                                 |
-|--------|-----------------------------------------|------------------------------------------------------------------------------------------------|
-| Unit 1 | TensorFlow Basics                       | [Visit](https://developers.google.com/learn/pathways/tensorflow)                               |
-| Unit 2 | Get Started with Object Detection       | [Visit](https://developers.google.com/learn/pathways/get-started-object-detection?hl=en)       |
-| Unit 3 | Going Further with Object Detection     | [Visit](https://developers.google.com/learn/pathways/going-further-object-detection?hl=en)     |
-| Unit 4 | Get Started with Image Product Search   | [Visit](https://developers.google.com/learn/pathways/get-started-image-product-search?hl=e)    |
-| Unit 5 | Going Further with Image Product Search | [Visit](https://developers.google.com/learn/pathways/going-further-image-product-search?hl=e)  |
-| Unit 6 | Going Further with Image Classification | [Visit](https://developers.google.com/learn/pathways/going-further-image-classification?hl=en) |
+This internship followed six structured learning units :
+|  Unit  |             Title                       |                                           
+|--------|-----------------------------------------|
+| Unit 1 | TensorFlow Basics                       | 
+| Unit 2 | Get Started with Object Detection       | 
+| Unit 3 | Going Further with Object Detection     |
+| Unit 4 | Get Started with Image Product Search   | 
+| Unit 5 | Going Further with Image Product Search | 
+| Unit 6 | Going Further with Image Classification | 
 
 ---
 
@@ -33,7 +32,7 @@ This internship followed six structured learning units hosted on [Google Develop
 
 <img width="959" height="529" alt="image" src="https://github.com/user-attachments/assets/8ec8f32f-5c4c-4e65-98df-97ed53296d6f" />
 
-**🔗 Based on:** [Unit 2 – Get Started with Object Detection](https://developers.google.com/learn/pathways/get-started-object-detection?hl=en)
+**🔗 Based on:** [Unit 2 – Get Started with Object Detection]
 
 A real-time web application that uses **TensorFlow.js** and **React.js** to detect multiple objects in webcam feed or static images using the **COCO-SSD** pre-trained model. Fully runs in the browser with no backend.
 
@@ -52,7 +51,7 @@ A real-time web application that uses **TensorFlow.js** and **React.js** to dete
 
 <img width="959" height="534" alt="image" src="https://github.com/user-attachments/assets/97449473-142b-4ec9-9d4b-6fcb7b220f85" />
 
-**🔗 Based on:** [Unit 6 – Going Further with Image Classification](https://developers.google.com/learn/pathways/going-further-image-classification?hl=en)
+**🔗 Based on:** [Unit 6 – Going Further with Image Classification]
 
 This project is a custom image classifier that detects whether an item belongs to the **recyclable** or **non-recyclable** category. Built using Python and TensorFlow, it promotes eco-friendly practices by assisting in waste categorization.
 
