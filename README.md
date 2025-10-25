@@ -1,4 +1,4 @@
-🤖 Google AI/ML Virtual Internship – Cohort 12 (AICTE × Google Developers)
+**🤖 Google AI/ML Virtual Internship – Cohort 12 (AICTE × Google Developers)**
 
 Welcome to my project repository for the Google AI/ML Virtual Internship – Cohort 12, conducted by AICTE in collaboration with Google Developers. This program offered a hands-on journey through Google's curated AI/ML learning pathways, focusing on real-world applications using TensorFlow and modern deployment tools.
 
